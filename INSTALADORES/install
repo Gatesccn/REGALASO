@@ -45,7 +45,7 @@ mkdir /etc/slowdns
 cd /etc/slowdns
 wget https://github.com/Gatesccn/REGALASO/raw/main/slowdns/dns-server; chmod +x dns-server
 wget https://raw.githubusercontent.com/Gatesccn/REGALASO/main/slowdns/remove-slow; chmod +x remove-slow
-wget https://raw.githubusercontent.com/Gatesccn/REGALASO/main/slowdns/slowdns; chmod +x slowdns-info
+wget https://raw.githubusercontent.com/Gatesccn/REGALASO/main/slowdns/slowdns-info; chmod +x slowdns-info
 wget https://raw.githubusercontent.com/Gatesccn/REGALASO/main/slowdns/slowdns-drop; chmod +x slowdns-drop
 wget https://raw.githubusercontent.com/Gatesccn/REGALASO/main/slowdns/slowdns-ssh; chmod +x slowdns-ssh
 wget https://raw.githubusercontent.com/Gatesccn/REGALASO/main/slowdns/slowdns-ssl; chmod +x slowdns-ssl
